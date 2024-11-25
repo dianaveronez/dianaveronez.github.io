@@ -3,8 +3,11 @@
 # Project Title:
 
 ## Introduction
+Talk about precipitation.
 
 ## Data
+CPC Global Unified Gauge-Based Analysis of Daily Precipitation 
+
 https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/README.md
 
 ## Code description
