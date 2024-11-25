@@ -7,6 +7,8 @@
 ## Data
 https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/README.md
 
+## Code description
+
 ## Results and Analysis
 
 ## Summary, Discussion, and Future Work
