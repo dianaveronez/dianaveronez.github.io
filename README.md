@@ -18,7 +18,7 @@ Model:	GPCP
 
 https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/README.md
 
-## Code Description and results
+## Code description and results
 
 ### Project Notebook via Github
 The files about this project you can find in the link: https://github.com/dianaveronez/Diana_CLIM680_project
