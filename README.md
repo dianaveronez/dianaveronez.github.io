@@ -10,7 +10,7 @@ One key factor influencing global precipitation variability is the El Niño-Sout
 In the context of Arlington County, Virginia, understanding the interplay between precipitation and ENSO is particularly vital for assessing flood risks. With its urbanized landscape and proximity to water bodies, Arlington is highly susceptible to flooding, especially during extreme precipitation events exacerbated by ENSO-related climate variability. Developing a nuanced understanding of these dynamics can enhance flood risk management, improve urban planning, and foster community resilience (County Climate Action Team, 2023).
 
 ## Data
-Global Precipitation Climatology Project (GPCP) Monthly Precipitation Data located on the NOAA repository.
+Global Precipitation Climatology Project (GPCP) Monthly Precipitation Data is located in the NOAA repository.
 Link: https://psl.noaa.gov/repository/entry/show?entryid=9aaab85c-cdd3-44af-810c-12a1b23ccf5d
 Date: 	1979-01-01 00:00:00 UTC - 2021-12-01 00:00:00 UTC
 Model:	GPCP
