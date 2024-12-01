@@ -20,8 +20,15 @@ https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/README.md
 ## Code Description
 Print the comments here and talk about it
 
+
 ## Results and Analysis
 Insert the plots/maps
+
+![image](https://github.com/user-attachments/assets/9719b4f3-b16e-48c6-a194-38c1bfa72405)
+
+Figure: SST for 2000 to 2018
+
+
 
 ## Summary, Discussion, and Future Work
 
