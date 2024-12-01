@@ -12,17 +12,17 @@ In the context of Arlington County, Virginia, understanding the interplay betwee
 
 ## Data
 1. Nino 3.4 index
-   The Nino3.4 index can be obtained from the NOAA Physical Sciences Laboratory’s “Climate Indices: Monthly Atmospheric and Ocean Time Series” pages.
-   The index called Nino3.4 is used to  quantify the El Niño–Southern Oscillation (ENSO). When the index is significantly positive, it indicates an El Niño event. Conversely, when the index is significantly negative, it reflects a La Niña event. Values near zero are considered neutral conditions.
+The Nino3.4 index can be obtained from the NOAA Physical Sciences Laboratory’s “Climate Indices: Monthly Atmospheric and Ocean Time Series” pages.
+The index called Nino3.4 is used to quantify the El Niño–Southern Oscillation (ENSO). When the index is significantly positive, it indicates an El Niño event. Conversely, when the index is significantly negative, it reflects a La Niña event. Values near zero are considered neutral conditions.
 The Nino3.4 index is derived from sea surface temperature (SST) anomalies in a specific region of the Tropical Pacific.
+The data can be downloaded from the following link: https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/nino34_1982-2019.oisstv2_anoms.nc
    
 3. Precipitation Data
-Global Precipitation Climatology Project (GPCP) Monthly Precipitation Data is located in the NOAA repository.
-Link: https://psl.noaa.gov/repository/entry/show?entryid=9aaab85c-cdd3-44af-810c-12a1b23ccf5d
-Date: 	1979-01-01 00:00:00 UTC - 2021-12-01 00:00:00 UTC
-Model:	GPCP
+The data used in this study was Global Precipitation Climatology Project (GPCP).
+- Date: 	1979-01-01 00:00:00 UTC - 2021-12-01 00:00:00 UTC. This study focuses on the dataset spans from 2020 to 2018.
+- Model:	GPCP - Global Precipitation Climatology Project,  Monthly Precipitation Data.
 
-
+The data can be downloaded from NOAA repository. Link: https://psl.noaa.gov/repository/entry/show?entryid=9aaab85c-cdd3-44af-810c-12a1b23ccf5d or https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/GPCP_NOAA_precip.mon.mean.nc
 https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/README.md
 
 ## Code description and results
