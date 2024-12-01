@@ -7,15 +7,9 @@ Talk about precipitation general idea
 precipitation in Arlington
 
 ## Data
-CPC Global Unified Gauge-Based Analysis of Daily Precipitation - link https://psl.noaa.gov/data/gridded/data.cpc.globalprecip.html 
-CPC 0.5x0.5 Global Daily Unified Gauge-Based Analysis of Precipitation
-
-![image](https://github.com/user-attachments/assets/eb61b443-1f41-45ae-813e-bc37fd85364e)
-
-Data:Precipitation	Long Term Mean	Surface	Monthly 
-Link: https://downloads.psl.noaa.gov/Datasets/cpc_global_precip/     File: precip.day.1991-2020.ltm.nc
-link_directly: https://downloads.psl.noaa.gov/Datasets/cpc_global_precip/precip.day.1991-2020.ltm.nc 
-
+Link: https://psl.noaa.gov/repository/entry/show?entryid=9aaab85c-cdd3-44af-810c-12a1b23ccf5d
+Date: 	1979-01-01 00:00:00 UTC - 2021-12-01 00:00:00 UTC
+Model:	GPCP
 
 
 https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/README.md
