@@ -1,6 +1,7 @@
 # dianaveronez.github.io
 # Diana_CLIM680_project
-# Project Title:
+
+#  Relationship between ENSO and Precipitation
 
 ## Introduction
 Precipitation is a critical component of the Earth's hydrological cycle, influencing water resources, agricultural productivity, and the frequency and intensity of extreme weather events. Understanding precipitation patterns is essential for managing water resources, predicting flood risks, and mitigating the effects of climate change (Smith et al., 2020).
@@ -10,6 +11,12 @@ One key factor influencing global precipitation variability is the El Niño-Sout
 In the context of Arlington County, Virginia, understanding the interplay between precipitation and ENSO is particularly vital for assessing flood risks. With its urbanized landscape and proximity to water bodies, Arlington is highly susceptible to flooding, especially during extreme precipitation events exacerbated by ENSO-related climate variability. Developing a nuanced understanding of these dynamics can enhance flood risk management, improve urban planning, and foster community resilience (County Climate Action Team, 2023).
 
 ## Data
+1. Nino 3.4 index
+   The Nino3.4 index can be obtained from the NOAA Physical Sciences Laboratory’s “Climate Indices: Monthly Atmospheric and Ocean Time Series” pages.
+   The index called Nino3.4 is used to  quantify the El Niño–Southern Oscillation (ENSO). When the index is significantly positive, it indicates an El Niño event. Conversely, when the index is significantly negative, it reflects a La Niña event. Values near zero are considered neutral conditions.
+The Nino3.4 index is derived from sea surface temperature (SST) anomalies in a specific region of the Tropical Pacific.
+   
+3. Precipitation Data
 Global Precipitation Climatology Project (GPCP) Monthly Precipitation Data is located in the NOAA repository.
 Link: https://psl.noaa.gov/repository/entry/show?entryid=9aaab85c-cdd3-44af-810c-12a1b23ccf5d
 Date: 	1979-01-01 00:00:00 UTC - 2021-12-01 00:00:00 UTC
