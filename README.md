@@ -54,13 +54,35 @@ The next picture shows us the results for SST for 2000 - 2018 with El Nino, La N
 
 
   ![image](https://github.com/user-attachments/assets/f701136c-445b-4293-a587-c49a27f27c1a)
-  Picture: SST for 2000 to 2018 with El Nino, La Nina, and Neutral Pediods.
+ 
+             Picture: SST for 2000 to 2018 with El Nino, La Nina, and Neutral Pediods.
 
 These analyses allow us to know that in the period we have 53 El Nino, 110 Neutral, and 63 La Nina.
 
 To continue, we upload the Global Precipitation Climatology Project (GPCP) and calculate the mean precipitation anomalies for El Niño, La Niña, and neutral conditions from a dataset.
 
+![image](https://github.com/user-attachments/assets/069bbcbe-36f6-4c55-a793-6cd207489c43)
 
+    Picture: Composite Precipitation Anomalies during ENSO 2020-2018
+
+
+The next map shows us the differences between El Nino and Neutral and La Nina and Neutral.
+
+![image](https://github.com/user-attachments/assets/286da412-c0c1-4f51-8d55-42440f8ccc7f)
+
+      Picture: Composite Precipitation Differences during ENSO 2020-2018
+
+Talk about T-Statistic
+
+The next picture allows us to understand the T- Statistic for El nino vs Neutral and La nina and Neutral.
+
+![image](https://github.com/user-attachments/assets/c4820e91-7891-4e34-bfd7-2b9074a02da9)
+
+Picture:
+
+![image](https://github.com/user-attachments/assets/75906a2f-e62a-4014-b813-617f09dbaa91)
+
+Picture:
 
 
 ##  Analysis
