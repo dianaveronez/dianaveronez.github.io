@@ -3,7 +3,8 @@
 # Project Title:
 
 ## Introduction
-Talk about precipitation.
+Talk about precipitation general idea
+precipitation in Arlington
 
 ## Data
 CPC Global Unified Gauge-Based Analysis of Daily Precipitation - link https://psl.noaa.gov/data/gridded/data.cpc.globalprecip.html 
@@ -20,8 +21,10 @@ link_directly: https://downloads.psl.noaa.gov/Datasets/cpc_global_precip/precip.
 https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/README.md
 
 ## Code Description
+Print the comments here and talk about it
 
 ## Results and Analysis
+Insert the plots/maps
 
 ## Summary, Discussion, and Future Work
 
