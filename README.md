@@ -90,6 +90,9 @@ Difference between composites and also mark where it is significant.
 
 Picture: 
 
+![image](https://github.com/user-attachments/assets/0b9ceb42-1794-42d0-8c7e-7878669adff8)
+
+Picture:
 
 ##  Analysis
  
