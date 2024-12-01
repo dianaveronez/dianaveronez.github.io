@@ -17,16 +17,31 @@ Model:	GPCP
 
 https://github.com/dianaveronez/Diana_CLIM680_project/blob/main/README.md
 
-## Code Description
-Print the comments here and talk about it
+## Code Description and results
 
+ In the code is important to plan all the libraries and modules that will be necessary. In this project, the mean libraries were: xarray as xr, matplotlib.pyplot as plt, numpy as np, cartopy.crs as ccrs, cartopy.mpl.ticker as sticker, and cartopy.util import add_cyclic_point.
+ 
 
-## Results and Analysis
-Insert the plots/maps
+In the next picture, you can see El Nino, La Nina, and Neutral conditions from 2000 to 2018
 
 ![image](https://github.com/user-attachments/assets/9719b4f3-b16e-48c6-a194-38c1bfa72405)
 
 Figure: SST for 2000 to 2018
+
+To continue, the the script analyzes sea surface temperature (SST) data to classify periods as El Nino, La Nina, or Neutral from the year 2000 to 2018. It performs the following tasks:
+1. Classifies SST data into El Nino, La Nina, and Neutral categories based on temperature thresholds.
+2. Counts the number of time points in each category.
+3. Plots the SST data over time, highlighting El Nino, La Nina, and Neutral periods with different colors.
+Variables:
+- elnino: SST data points classified as El Nino (SST >= 0.5).
+- lanina: SST data points classified as La Nina (SST <= -0.5).
+- neutral: SST data points classified as Neutral (-0.5 < SST < 0.5).
+- counts: List containing the counts of time points in El Nino, La Nina, and Neutral categories.
+Plot:
+- The SST data is plotted over time with different colors indicating El Nino (red), La Nina (blue), and Neutral (green) periods.
+
+##  Analysis
+ 
 
 
 
