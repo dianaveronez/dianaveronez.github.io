@@ -84,6 +84,12 @@ Picture:
 
 Picture:
 
+Difference between composites and also mark where it is significant.
+
+![image](https://github.com/user-attachments/assets/f6979cbc-0fa1-4e16-b351-8cd4f8e11e93)
+
+Picture: 
+
 
 ##  Analysis
  
