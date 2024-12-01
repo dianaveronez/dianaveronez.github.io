@@ -63,14 +63,14 @@ To continue, we upload the Global Precipitation Climatology Project (GPCP) and c
 
 ![image](https://github.com/user-attachments/assets/069bbcbe-36f6-4c55-a793-6cd207489c43)
 
-    Picture: Composite Precipitation Anomalies during ENSO 2020-2018
+    Picture: Composite Precipitation Anomalies during ENSO 2000-2018
 
 
 The next map shows us the differences between El Nino and Neutral and La Nina and Neutral.
 
 ![image](https://github.com/user-attachments/assets/286da412-c0c1-4f51-8d55-42440f8ccc7f)
 
-      Picture: Composite Precipitation Differences during ENSO 2020-2018
+      Picture: Composite Precipitation Differences during ENSO 2000-2018
 
 Talk about T-Statistic
 
