@@ -46,6 +46,9 @@ The climate2.yml file is shown to define the environment needed to run all code 
 
  Picture: Monthly Mean Precipitation Global View
 
+ ![monthly_precipitation](https://github.com/user-attachments/assets/52d176e3-a4ae-4ddf-ba26-1948356b2ce7)
+ Picture: Monthly Mean Precipitation VA View
+
  
 ### Composites with significance
 As we read in the introduction, the ENSO can affect the precipitation.
