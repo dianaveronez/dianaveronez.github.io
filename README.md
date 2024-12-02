@@ -36,13 +36,9 @@ The climate2.yml file is shown to define the environment needed to run all code 
 ### Libraries
  To work using code is important to plan all the libraries and modules that will be necessary. In this project, the mean libraries used on the notebook were: xarray as xr, matplotlib.pyplot as plt, numpy as np, cartopy.crs as ccrs, cartopy.mpl.ticker as sticker, scipy.stats, and cartopy.util import add_cyclic_point.
 
- ### Monthly Mean Precipitation around Arlington, VA
+ ### Monthly Mean Precipitation  
  
- ![image](https://github.com/user-attachments/assets/7026a465-3f67-4e89-ae48-4c4a09307edd)
-
- Picture: Monthly Mean Precipitation around Arlington, VA
-
- ![image](https://github.com/user-attachments/assets/f67667a9-0c88-492a-9132-326900bc3610)
+   ![image](https://github.com/user-attachments/assets/f67667a9-0c88-492a-9132-326900bc3610)
 
  Picture: Monthly Mean Precipitation Global View
 
